@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #000;
+}
+
+p {
+  line-height: 10px;
+  font-size: 10px;
+  background: url(/aye8.jpeg); 
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255,255,255,0.1);
+  background-size: cover;
+  background-position: center;
+
+}
